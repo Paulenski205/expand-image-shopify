@@ -1,0 +1,32 @@
+<div class="container">
+  <div>
+    <div class="content">
+      <h2>Acela</h2>
+      <span>Gray Slate Sandstone</span>
+    </div>
+  </div>
+  <div>
+    <div class="content">
+      <h2>Ashbury</h2>
+      <span>Bluey Teal</span>
+    </div>
+  </div>
+  <div>
+    <div class="content">
+      <h2>Abbey</h2>
+      <span>Woody Wood Grain</span>
+    </div>
+  </div>
+  <div>
+    <div class="content">
+      <h2>Shaker</h2>
+      <span>Darky Dark Magh</span>
+    </div>
+  </div>
+  <div>
+    <div class="content">
+      <h2>Cloister</h2>
+      <span>White OFf White</span>
+    </div>
+  </div>
+</div>
