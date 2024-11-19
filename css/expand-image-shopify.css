@@ -50,6 +50,26 @@ body {
       background: url("https://static.wixstatic.com/media/daaed2_935f5d1fe0034ca7816fb1ee990ee82e~mv2.png")
         no-repeat 50% / cover;
     }
+    &:nth-of-type(6) {
+      background: url("https://static.wixstatic.com/media/daaed2_7993ae1d422a49dc9dea9285a3b48edc~mv2.png")
+        no-repeat 50% / cover;
+    }
+    &:nth-of-type(7) {
+      background: url("https://static.wixstatic.com/media/daaed2_888fbf5a128646eca0fdf395bc6e7c06~mv2.png")
+        no-repeat 50% / cover;
+    }
+    &:nth-of-type(8) {
+      background: url("https://static.wixstatic.com/media/daaed2_d069d1dac4c94329adf9954279b14594~mv2.png")
+        no-repeat 50% / cover;
+    }
+    &:nth-of-type(9) {
+      background: url("https://static.wixstatic.com/media/daaed2_0395dfd155d4487583fb282270071fb1~mv2.png")
+        no-repeat 50% / cover;
+    }
+    &:nth-of-type(10) {
+      background: url("https://static.wixstatic.com/media/daaed2_442d59a0c8134ba3898b6d692ab6b09e~mv2.png")
+        no-repeat 50% / cover;
+    }
 
     .content {
       font-size: 1.5rem;
